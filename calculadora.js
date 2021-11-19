@@ -1,4 +1,3 @@
-import "./index.html"
 var historico = [];
 
 function historico1() {
